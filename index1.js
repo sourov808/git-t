@@ -7,3 +7,5 @@ function getname() {
 function newBranch() {
   console.log("New branch");
 }
+
+console.log("hello");
